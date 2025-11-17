@@ -1,4 +1,5 @@
 fn main() {
+<<<<<<< HEAD
     
     // Name vector
     let name = vec!["Mary", "Sam", "Sally", "Greg", "Ade", "Mark", "June", "Ife"];
@@ -14,4 +15,7 @@ fn main() {
         // Iterating through i on the vector
         print!("{} is {} years old\n",name[i],age[i]);
     }
+=======
+    println!("Hello, world!");
+>>>>>>> 565c5db249224695a0809aa5e0cb92269605c43f
 }

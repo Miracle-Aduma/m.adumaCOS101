@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // method to print the get value
 fn value(n:Option<&char>) 
 {
@@ -18,4 +19,8 @@ fn main(){
     // Getting value at given index value
     let ch: Option<&char> = v.get(index);
     value(ch);
+=======
+fn main() {
+    println!("Hello, world!");
+>>>>>>> 565c5db249224695a0809aa5e0cb92269605c43f
 }

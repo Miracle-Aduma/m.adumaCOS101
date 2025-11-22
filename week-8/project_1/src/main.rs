@@ -56,4 +56,3 @@ fn main() {
     println!("Experience: {}", experience);
     println!("APS Level: {}", determined_level);
 }
-

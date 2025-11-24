@@ -1,0 +1,27 @@
+EFCC Convicted Ministers - Merged Dataset
+--------
+Minister 1:
+Name: Aigbogun Alamba Daudu
+Zone: South West
+Ministry: Internal Affairs
+
+Minister 2:
+Name: Murtala Afeez Bendu
+Zone: North East
+Ministry: Justice
+
+Minister 3:
+Name: Okorocha Calistus Ogbona
+Zone: South South
+Ministry: Defense
+
+Minister 4:
+Name: Adewale Jimoh Akanbi
+Zone: South West
+Ministry: Power & Steel
+
+Minister 5:
+Name: Osazuwa Faith Etieye
+Zone: South East
+Ministry: Petroleum
+

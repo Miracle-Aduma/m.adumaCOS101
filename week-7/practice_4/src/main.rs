@@ -12,7 +12,7 @@ fn main() {
     let a:i32 = input1.trim().parse().expect("Invalid input");
 
     let mut input2 = String::new();
-    println!("Enter input for a parameter A: ");
+    println!("Enter input for a parameter B: ");
     io::stdin().read_line(&mut input2).expect("Failed to read input");
     let b:i32 = input1.trim().parse().expect("Invalid input");
 

@@ -1,0 +1,18 @@
+PAU-SMIS Student Personal Details
+-----------------------------------
+Name: John Doe
+ID: PAU1010
+Department: Computer Science
+
+Name: Jane Smith
+ID: PAU1015
+Department: Mass Communication
+
+Name: Chris Mark
+ID: PAU1022
+Department: Accounting
+
+Name: Maria Bello
+ID: PAU1030
+Department: Law
+

@@ -1,0 +1,20 @@
+Nigerian Breweries Product Categories:
+
+Category: Lager
+- 33 Export
+- Desperados
+- Goldberg
+- Gulder
+- Heineken
+- Star
+
+Category: Stout
+- Legend
+- Turbo King
+- Williams
+
+Category: Non-Alcoholic
+- Maltina
+- Amstel Malta
+- Malta Gold
+- Fayrouz

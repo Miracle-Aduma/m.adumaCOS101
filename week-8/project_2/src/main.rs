@@ -5,7 +5,7 @@ fn main() {
 
     println!("--- EY Developer Scouting Program ---");
 
-    // Ask how many developers will be entered
+    // How many developers will be entered
     println!("Enter number of candidates to evaluate:");
 
     let mut count_input = String::new();
@@ -15,13 +15,13 @@ fn main() {
     for i in 1..=candidate_count {
         println!("\nCandidate {}:", i);
 
-        // Get developer name
+        // Input developer name
         println!("Enter developer's name:");
         let mut name = String::new();
         io::stdin().read_line(&mut name).expect("Failed to read name");
         let name = name.trim().to_string();
 
-        // Get developer experience
+        // Input developer experience
         println!("Enter years of programming experience:");
         let mut exp_input = String::new();
         io::stdin().read_line(&mut exp_input).expect("Failed to read experience");
